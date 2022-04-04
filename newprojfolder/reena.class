@@ -1,11 +1,9 @@
 class reena{
         public static void main(String[] args){
 	System.out.println("This is the first program here");
+	System.out.println("Second line added nw to the program");
 }
 }
-
-
-
 
 
 
